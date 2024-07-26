@@ -1,0 +1,12 @@
+Shopping Cart
+Total
+Food 200
+Drinks 400
+Computer 40000
+Books 500
+Medicine 300
+Glasses 700
+Bottle 200
+Shoes 8000
+Lamp 500
+
