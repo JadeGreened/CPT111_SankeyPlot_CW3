@@ -1,0 +1,2 @@
+- Description of the ZIP file  
+Dear evaluator, hello! Following Professor Erick's instructions, I've placed all the files within a single directory. However, for your convenience, I've also included the entire project directory in my compressed file. The 'SankeyPlot' here represents the complete structure of my project! Thank you for your attention.
